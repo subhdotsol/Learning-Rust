@@ -4,6 +4,8 @@
 // ✅ Can have multiple immutable references (&), but no &mut while & exists.
 // ✅ Mutable reference goes out of scope before a new one is created.
 
+#![allow(unused_variables)]
+
 fn main() {
     let name = String::from("Subhajit Chaudhury");
 
