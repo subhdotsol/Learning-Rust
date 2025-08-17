@@ -29,10 +29,12 @@ rust-learning/
 │ ├── struct.rs                 # Defining and using structs
 │ ├── taskfile-1.rs             # some random practice questions till functions
 │ ├── variable.rs               # Variable bindings and shadowing
+| ├── vector.rs                 # Vectors in Rust
 ├── Cargo.toml                  # Project metadata and dependencies
 ├── Cargo.lock                  # Auto-generated dependency lock file
 └── .gitignore                  # Files to ignore in git
 └── .module_demo                # Demo for rust module system
+
 ```
 
 ---
