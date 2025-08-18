@@ -35,6 +35,8 @@ rust-learning/
 | ├── error_handling.rs         # overview of error handling in rust
 | ├── error_handling_ex1.rs     # better example of hashmap in rust // TODO : soon writing a blog on this
 | ├── generic.rs                # generics in rust
+| ├── traits.rs                 # traits in rust
+| ├── conditional_trait_bounds.rs # conditional traits bounds in rust
 ├── Cargo.toml                  # Project metadata and dependencies
 ├── Cargo.lock                  # Auto-generated dependency lock file
 └── .gitignore                  # Files to ignore in git
@@ -56,5 +58,9 @@ Rust has a learning curve — but it's worth every step.
 
 🎯 **Happy learning Rust!**  
 Stay curious, stay consistent, and don’t forget to `cargo build` your confidence one concept at a time. 🦀🚀
+
+## Resources : 
+- [Rust Book](https://doc.rust-lang.org/book/)
+- [Lets get rusty](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 
 ---
