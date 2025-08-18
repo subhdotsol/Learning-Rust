@@ -30,6 +30,8 @@ rust-learning/
 │ ├── taskfile-1.rs             # some random practice questions till functions
 │ ├── variable.rs               # Variable bindings and shadowing
 | ├── vector.rs                 # Vectors in Rust
+| ├── hashmap.rs                # hashmap in Rust
+| ├── hashmap_example.rs        # better example of hashmap in rust
 ├── Cargo.toml                  # Project metadata and dependencies
 ├── Cargo.lock                  # Auto-generated dependency lock file
 └── .gitignore                  # Files to ignore in git
