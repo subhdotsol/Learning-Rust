@@ -34,6 +34,7 @@ rust-learning/
 | ├── hashmap_example.rs        # better example of hashmap in rust
 | ├── error_handling.rs         # overview of error handling in rust
 | ├── error_handling_ex1.rs     # better example of hashmap in rust // TODO : soon writing a blog on this
+| ├── generic.rs                # generics in rust
 ├── Cargo.toml                  # Project metadata and dependencies
 ├── Cargo.lock                  # Auto-generated dependency lock file
 └── .gitignore                  # Files to ignore in git
